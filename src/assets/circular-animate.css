@@ -1,0 +1,12 @@
+.circular-text {
+    animation: circularAnimation 20s linear infinite;
+}
+
+@keyframes circularAnimation {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(100%);
+    }
+}
