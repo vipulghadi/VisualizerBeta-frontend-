@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8000/api/";
+const BASE_URL = "http://54.152.80.201/api/";
 
 export const fileAPI = {
 
