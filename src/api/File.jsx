@@ -1,5 +1,4 @@
 const BASE_URL = "http://54.152.80.201/api/";
-
 export const fileAPI = {
 
     sendFile: async function(file) {
